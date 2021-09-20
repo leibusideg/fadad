@@ -15,11 +15,11 @@
 |刘备|哭|大哥|
 |关羽|打|二哥|
 |张飞|骂|三弟|
-（```
+```
 #include<iostream>
 using namespace std;
 int main(){
    cout<<"Hello World!"
    return 0;
 }
-```)
+```
